@@ -1,0 +1,1 @@
+Jump around! Use '0' for line start, '^' for the first non-blank character, and '$' for line end. 'w' and 'b' move by words.
